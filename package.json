@@ -1,0 +1,19 @@
+{
+    "name": "node-hl7-example",
+    "version": "1.0.0",
+    "description": "example of hl7 messages with node",
+    "main": "server.js",
+    "scripts": {
+        "test": "node client.js",
+        "start": "node server.js"
+    },
+    "keywords": [
+    "hl7",
+    "node"
+  ],
+    "author": "MaxCode",
+    "license": "ISC",
+    "devDependencies": {
+        "simple-hl7": "^2.0.1"
+    }
+}
