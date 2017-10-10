@@ -1,6 +1,6 @@
 # node-hl7-example
 
-Example of an hl7 communication with node.
+Hl7 communication server with node.
 
 Installation
 ============
@@ -12,5 +12,5 @@ Run
 ============
 
 * Start server: `npm start`
-* Run example client: `npm test`
-* Run parser example: `node parser.js`
+* Run dev livereload: `start-dev.bat` (npx nodemon)
+* Run tests: `npm test`
